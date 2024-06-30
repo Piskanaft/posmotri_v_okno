@@ -45,7 +45,6 @@ ol {
   align-items: flex-end;
   gap: 30px;
   width: 1140px;
-  min-height: 534px;
 }
 
 .content__details {
@@ -53,7 +52,6 @@ ol {
   flex-direction: column;
   justify-content: flex-end;
   width: 100%;
-  min-height: 534px;
 }
 
 .result__video-container {
@@ -72,7 +70,6 @@ ol {
 .search-form {
   display: flex;
   justify-content: space-between;
-  min-height: 54px;
   margin-bottom: 2px;
 }
 
@@ -172,7 +169,6 @@ ol {
 .search-form__submit-button {
   align-self: flex-end;
   width: 193px;
-  height: 33px;
 }
 
 .title {
@@ -196,7 +192,6 @@ ol {
 
 .content__list-item {
   width: 398px;
-  min-height: 107px;
 }
 
 .content__list-item:not(:last-child) { 
